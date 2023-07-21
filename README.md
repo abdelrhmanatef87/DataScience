@@ -6,7 +6,7 @@ accuracy on the following dataset.<br/>
 Airline Tickets<br/>
 o The project delivery <br/>
 
-The project implementation will include the following
+The project implementation will include the following <br/>
  Apply the most suitable data wrangling methods. <br/>
  Apply Data visualization charts to observe more knowledge about your 
 dataset<br/>
